@@ -1,11 +1,8 @@
 ## 1. Cloning the repository
 
-Run the following command to only clone this folder of the repository
+Run the following command to clone the repository
 ```bash
-git clone -n --depth=1 --filter=tree:0 https://github.com/aiml-umd/workshops.git
-cd workshops
-git sparse-checkout set --no-cone Pytorch101
-git checkout
+git clone https://github.com/aiml-umd/Pytorch101.git
 cd Pytorch101
 ```
 
