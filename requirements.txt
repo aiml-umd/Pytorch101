@@ -1,4 +1,4 @@
-opencv-python==4.10.0.84
+opencv-python-headless
 streamlit==1.39.0
 streamlit-drawable-canvas==0.9.3
 torch==2.5.0
